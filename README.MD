@@ -1,5 +1,16 @@
-# Git-Branch-Based-Environment-Model
-Diagrama C4 criado com c4builder para modelo de ambiente baseado em um modelo de branchs do git.
+# development-workflow
+
+## Descrição
+
+Diagrama do modelo de ambientes X GitFlow.
+
+## Contexto de Negócio
+
+É um diagrama as a code para definição de como seguiremos com a estratégia  de ambientes (não integra com nada, é estático)
+
+## Squad Owner
+
+[Arquitetura](https://github.com/orgs/madeiramadeirabr/teams/team-platform-services-admin)
 
 ## Executar
 > c4builder site
