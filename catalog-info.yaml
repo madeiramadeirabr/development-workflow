@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: development-workflow
+  description: Diagrama do modelo de ambientes X GitFlow.
+  annotations:
+    github.com/project-slug: madeiramadeirabr/development-workflow
+    backstage.io/techdocs-ref: dir:.
+  tags:
+    - diagram
+    - workflow
+spec:
+  type: library
+  lifecycle: production
+  owner: team-platform-services-admin
